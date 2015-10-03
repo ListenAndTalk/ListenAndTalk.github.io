@@ -1,0 +1,5 @@
+.sass-cache
+node_modules
+public/css
+.DS_Store
+*.log
